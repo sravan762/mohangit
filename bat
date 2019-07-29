@@ -1,6 +1,2 @@
-cricket bat
-pooling
-conditional
-onoii
-vkrn
+git is vcs and distributed
 
